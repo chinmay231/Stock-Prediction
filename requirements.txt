@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+plotly
+regex
+seaborn
+scipy
+statsmodels
+yfinance
+tensorflow
+streamlit
