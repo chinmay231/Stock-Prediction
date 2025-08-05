@@ -1,5 +1,8 @@
 
 ---
+
+![Prediction example view : Palantir (ticker: PLTR) using LSTM ](OUTPUTS/APP2/OP2_4.png)
+
 ### TARGETS
 
 All the things shown below are for educational purpose and this model is not to be used for financial trading or advice. 
