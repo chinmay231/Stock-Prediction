@@ -10,3 +10,5 @@ statsmodels
 yfinance
 tensorflow
 streamlit
+xgboost
+

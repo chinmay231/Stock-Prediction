@@ -111,6 +111,6 @@ if 'windowed_df' in st.session_state:
         # Plot predictions
         fig2, ax2 = plt.subplots()
         df['Close'].plot(ax=ax2, label='Historical Close')
-        pred_df.set_index('Date')['Predicted Close'].plot(ax=ax2, style='--o', color='red', label='Predicted')
+        pred_df.set_index('Date')['Predicted Close'].plot(ax=ax2, style='--.', color='red', label='Predicted')
         ax2.legend()
         st.pyplot(fig2)
