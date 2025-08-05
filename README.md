@@ -1,9 +1,9 @@
 
 ---
 
-#### Stock Price Prediction using ML/DL. 
+# Stock Price Prediction using ML/DL. 
 
-# Below image - 
+#### Below image - 
 Prediction example view : Palantir (ticker: PLTR) using LSTM
 ![Prediction example view : Palantir (ticker: PLTR) using LSTM ](OUTPUTS/APP2/OP2_4.png)
 
