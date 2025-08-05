@@ -6,7 +6,7 @@ All the things shown below are for educational purpose and this model is not to 
 
 The below images are how the model performs, and it can be improved with better model selections, advanced feature engineering and extra steps that we will not discuss in this project. Here we deploy LSTM, Linear Regression and XGBoosted with LSTM. Along with that we do simple feature engineering and an advanced version just to get the idea. Refer to Data Polish below to understand how data actually looks or is prepared before its sent for training/testing and validation division. 
 
-
+User Interface - (OUTPUTS/APP2/OP2_1.png)
 
 
 ## 📊 Data
