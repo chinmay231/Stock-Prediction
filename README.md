@@ -6,7 +6,8 @@ All the things shown below are for educational purpose and this model is not to 
 
 The below images are how the model performs, and it can be improved with better model selections, advanced feature engineering and extra steps that we will not discuss in this project. Here we deploy LSTM, Linear Regression and XGBoosted with LSTM. Along with that we do simple feature engineering and an advanced version just to get the idea. Refer to Data Polish below to understand how data actually looks or is prepared before its sent for training/testing and validation division. 
 
-User Interface - (OUTPUTS/APP2/OP2_1.png)
+![User Interface](OUTPUTS/APP1/OP1_1.png)
+
 
 
 ## 📊 Data
@@ -72,6 +73,9 @@ This ensures proper time-based slicing. The `isinstance(...)` check prevents unn
 In the Streamlit app, the user can select a start date, end date, and the number of past days (`n`) to use for training. These values are passed into the function.
 
 ---
+
+![Windowed Data Example](OUTPUTS/APP1/OP1_3.png)
+
 
 ### 2. 🪟 What is Data Windowing?
 
