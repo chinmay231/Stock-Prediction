@@ -1,4 +1,4 @@
-
+Lets Predict the stock trajectory of Palantir (PLTR), which has been performing very well lately. These projections are made using traditional -Linear regression and more advanced LSTM and XGBoost. This is an educational project, and not financial advice. 
 ---
 
 # Stock Price Prediction using ML/DL. 
